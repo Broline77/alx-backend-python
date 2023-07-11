@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
+'''Task 8's module.
+'''
 from typing import Callable
-"""takes in a function and return a function"""
 
 
 def make_multiplier(multiplier: float) -> Callable[[float], float]:
-    """takes in a function and return a function"""
-    def multiply(n: float) -> float:
-        return n * multiplier
-    return multiply
+    '''Creates a multiplier function.
+    '''
+    return lambda x: x * multiplier
