@@ -1,7 +1,11 @@
 #!/usr/bin/env python3
-"""a function to add two floats"""
+"""add function
+"""
 
 
 def add(a: float, b: float) -> float:
-    """a function to add two floats"""
+    """
+    Add two floats together.
+    Returns:The sum of the two floats.
+    """
     return a + b
