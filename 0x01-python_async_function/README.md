@@ -2,7 +2,7 @@
 
 <button style="backgound-color:red">Python</button> <button style="backgound-color:red">Back-end</button>
 
-![img](https://github.com/Broline77/alx-backend-python/blob/main/0x01-python_async_function/async.png)
+![img](https://github.com/Broline77/alx-backend-python/blob/master/0x01-python_async_function/async.png)
 
 # Resources
 ## Read or watch:
